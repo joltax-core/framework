@@ -41,4 +41,3 @@ If you discover any security related issues, please email [admin@joltax.com](mai
 
 ##License
 The MIT License (MIT). Please view the [License]() File for more information.
->>>>>>> bc181f8 (initial commit)
