@@ -16,7 +16,8 @@ This project is open source and MIT-licenced, we welcome any contributions. You 
 
 ---
 
-##Features
+
+## Features
 
 Some core features available
 * [Routing]()
@@ -35,14 +36,14 @@ Some core features available
 
 Visit the docs on [Joltax](https://joltax.com/flutter)
 
-##Changelog
+## Changelog
 
 Please see [CHANGELOG](https://github.com/joltax-core/framework/blob/0.x/CHANGELOG.md) for more information what has changed recently.
 
-##Security
+## Security
 
 If you discover any security related issues, please email [admin@joltax.com](mailto:admin@joltax.com) instead of using the issue tracker.
 
-##License
+## License
 
 The MIT License (MIT). Please view the [License]() File for more information.
