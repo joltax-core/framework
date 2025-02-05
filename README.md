@@ -12,11 +12,12 @@ Joltax is a micro-framework that simplifies and accelerates application developm
 
 This project is open source and MIT-licenced, we welcome any contributions. You can join as a backer/sponsor to fund future development for this project [here](https://github.com/sponsors/Mbudak04)
 
-> **Note** If you want to build an application using Nylo, please visit the main [Joltax repository](https://github.com/joltax-core/joltax). This repository contains the code for the framework Nylo uses.
+> **Note** If you want to build an application using Joltax, please visit the main [Joltax repository](https://github.com/joltax-core/joltax). This repository contains the code for the framework Joltax uses.
 
 ---
 
 ##Features
+
 Some core features available
 * [Routing]()
 * [Light and dark themes]()
@@ -31,13 +32,17 @@ Some core features available
 * [Streamlined Project Structure]()
 
 ## Documentation
+
 Visit the docs on [Joltax](https://joltax.com/flutter)
 
 ##Changelog
+
 Please see [CHANGELOG](https://github.com/joltax-core/framework/blob/0.x/CHANGELOG.md) for more information what has changed recently.
 
 ##Security
+
 If you discover any security related issues, please email [admin@joltax.com](mailto:admin@joltax.com) instead of using the issue tracker.
 
 ##License
+
 The MIT License (MIT). Please view the [License]() File for more information.
