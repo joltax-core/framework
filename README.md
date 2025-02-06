@@ -38,7 +38,7 @@ Visit the docs on [Joltax](https://joltax.com/flutter)
 
 ## Changelog
 
-Please see [CHANGELOG](https://github.com/joltax-core/framework/blob/0.x/CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG](https://github.com/joltax-core/framework/blob/main/CHANGELOG.md) for more information what has changed recently.
 
 ## Security
 
