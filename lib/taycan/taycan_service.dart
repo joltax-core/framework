@@ -4,7 +4,8 @@ import 'package:joltax_framework/taycan/constants/taycan_console.dart';
 import 'package:joltax_framework/taycan/models/tc_command.dart';
 
 class TaycanService {
-  static Future<void> runCommand(List<String> arguments, {required List<TcCommand?> allCommands, required String menu}) async {
+  static Future<void> runCommand(List<String> arguments,
+      {required List<TcCommand?> allCommands, required String menu}) async {
     List<String> argumentsForAction = arguments.toList();
     if (argumentsForAction.isEmpty) {
       TaycanConsole.writeInGreen(menu);
@@ -19,7 +20,8 @@ class TaycanService {
     String type = argumentSplit[0];
     String action = argumentSplit[1];
 
-    TcCommand? tcCommand = allCommands.firstWhereOrNull((command) => type == command?.category && command?.name == action);
+    TcCommand? tcCommand = allCommands.firstWhereOrNull(
+        (command) => type == command?.category && command?.name == action);
 
     if (tcCommand == null) {
       TaycanConsole.writeInRed('Invalid arguments $arguments');

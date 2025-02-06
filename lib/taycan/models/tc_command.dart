@@ -5,5 +5,6 @@ class TcCommand {
   String? category;
   Function? action;
 
-  TcCommand({this.name, this.options, this.arguments, this.category, this.action});
+  TcCommand(
+      {this.name, this.options, this.arguments, this.category, this.action});
 }

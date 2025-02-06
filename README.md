@@ -19,7 +19,7 @@ This project is open source and MIT-licenced, we welcome any contributions. You 
 
 ## Features
 
-Some core features available
+Some core features available COMMING SOON!
 * [Routing]()
 * [Light and dark themes]()
 * [Localization]()

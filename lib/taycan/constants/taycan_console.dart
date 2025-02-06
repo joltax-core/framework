@@ -1,6 +1,5 @@
 import 'dart:io';
 
-
 ///Determines the color of the text to be written in the console.
 class TaycanConsole {
   static writeInGreen(String message) {
